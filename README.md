@@ -1,2 +1,2 @@
-# C-35
-Start of car racing
+# synchronousBallMovement
+Ball moving synchronously
